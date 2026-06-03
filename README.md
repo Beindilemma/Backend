@@ -143,7 +143,7 @@ ai-trip-backend/
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/你的用户名/ai-trip-backend.git
+git clone https://github.com/Beindilemma/ai-trip-backend.git
 cd ai-trip-backend
 ```
 
@@ -419,5 +419,5 @@ docker run -d \
 
 ## 联系方式
 
-- Issues：[提交问题](https://github.com/你的用户名/ai-trip-backend/issues)
+- Issues：[提交问题](https://github.com/Beindilemma/ai-trip-backend/issues)
 - 微信小程序：享迹 AI
