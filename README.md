@@ -413,7 +413,7 @@ docker run -d \
 
 ## 许可证
 
-本项目仅供学习交流使用。
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
